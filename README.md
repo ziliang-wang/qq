@@ -1,6 +1,6 @@
 # selenium+scrapy混合抓取动态渲染后的数据
 ### Target: QQ音乐流行指数排行Top20
-### Output: JSON
+### Output: JSON格式，做为web/app/微信小程序的数据源，公开API的数据源等
 ### 抓包截图:
 ![img1](https://github.com/ziliang-wang/qq/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200424164028.png)
 ### 关键说明:
