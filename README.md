@@ -1,6 +1,15 @@
 # selenium+scrapy混合抓取动态渲染后的数据
 ### Target: QQ音乐流行指数排行Top20
-### Outpot: JSON
+### Output: JSON
+### 抓包截图:
+    
 #### 关键说明:
-##### 1，
+##### 1，输出为json，为避免中文乱码问题，scrapy中的settings添加以下字段来修正:
+
+
+##### 2, 创建main入口，快速运行scrapy项目，注意参数"-o qq.json"
+
+
+##### 3, 关键代码截图:
+
 
