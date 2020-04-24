@@ -14,5 +14,5 @@
 ###### b, 将json数据赋给item后，另建item_list列表，原item对象非标准字典，以dict(item)转成dict后再添加至list，最终为"嵌套字典的列表"
 ###### c, 最后以selenium抓取时长数据，循环取出item_list内的字典后，再以xpath取出来的文本数据赋值给字典内的time字段，再yield给scrapy引擎
 ##### 4，输出:
-
+![img5](https://github.com/ziliang-wang/qq/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200424164329.png)
 
