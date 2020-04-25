@@ -1,4 +1,4 @@
-# selenium+scrapy混合抓取动态渲染后的数据
+# selenium+PhantomJS+scrapy混合抓取动态渲染后的数据
 ### Target: QQ音乐流行指数排行Top20
 ### Output: JSON格式，web/app/微信小程序的数据源，公开API的数据源等
 ### 抓包截图:
